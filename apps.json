@@ -1,10 +1,41 @@
 {
-  "suffixed": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
-  "mundoInfinito": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
-  "vertex": null,
-  "future": null,
-  "gplayer": null,
-  "tvOnlinePlus": null,
-  "flujoTv": null,
-  "fenomPlay": null
+  "notice": "🚀 ¡Bienvenido a la nueva FTStore-DigTV!",
+  "maintenance": {
+    "active": false,
+    "message": "Estamos en mantenimiento. Volvemos en 15 minutos."
+  },
+  "apps": {
+    "suffixed": {
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
+      "detail": "Versión 8.0 · Estable"
+    },
+    "mundoInfinito": {
+      "url": null,
+      "detail": "Próximamente"
+    },
+    "vertex": {
+      "url": null,
+      "detail": "Próximamente"
+    },
+    "future": {
+      "url": null,
+      "detail": "Próximamente"
+    },
+    "gplayer": {
+      "url": null,
+      "detail": "Próximamente"
+    },
+    "tvOnlinePlus": {
+      "url": null,
+      "detail": "Próximamente"
+    },
+    "flujoTv": {
+      "url": null,
+      "detail": "Próximamente"
+    },
+    "fenomPlay": {
+      "url": null,
+      "detail": "Próximamente"
+    }
+  }
 }
