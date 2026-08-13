@@ -1,7 +1,7 @@
 {
   "notice": "🚀 ¡Bienvenido a la nueva FTStore-DigTV!",
   "maintenance": {
-    "active": true,
+    "active": false,
     "message": "Estamos en mantenimiento. Volvemos en 15 minutos."
   },
   "apps": {
