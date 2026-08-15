@@ -3,6 +3,11 @@
     "text": "🚀 ¡Bienvenido a la nueva FTStore-DigTV!",
     "color": "#D82126"
   },
+  "novedades": {
+    "text": "📢 NOVEDADES: TODAS LAS APPS FUNCIONANDO CORRECTAMENTE.",
+    "color": "#FFD700"
+  },
+  "support_whatsapp": "+5492657219227",
   "maintenance": {
     "active": false,
     "message": "Estamos en mantenimiento. Volvemos en 15 minutos."
