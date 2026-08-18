@@ -4,7 +4,7 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: MUY PRONTO LOS VENCIM IENTOS IRAN POR ACA.",
+    "text": "📢 NOVEDADES: MUY PRONTO LOS VENCIMIENTOS IRÁN POR ACÁ.",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -17,15 +17,13 @@
     "versionCode": 3,
     "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk"
   },
-  "apps":
-  {
-    "FT STORE APk": {
+  "apps": {
+    "ftStoreApk": {
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
       "detail": "Versión 1.0 · Probando",
       "package": "com.suffixed.app",
       "status": "normal"
     },
-  {
     "suffixed": {
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
       "detail": "Versión 8.0 · Estable",
