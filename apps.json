@@ -1,59 +1,65 @@
-"apps": {
-  "FT STORE APK": {
-    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk",
-    "detail": "Versión 2.1.0 · Actualización disponible",
-    "package": "PACKAGE_DE_TU_FTSTORE",
-    "status": "Actualizar"
+{
+  "notice": {
+    "text": "🚀 ¡Bienvenido a la nueva FTStore-DigTV!",
+    "color": "#D82126"
   },
-
-  "suffixed": {
-    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
-    "detail": "Versión 8.0 · Estable",
-    "package": "com.suffixed.app",
-    "status": "Actualizar"
+  "novedades": {
+    "text": "📢 NOVEDADES: MUY PRONTO LOS VENCIMIENTOS IRÁN POR ACÁ.",
+    "color": "#FFD700"
   },
-
-  "vertex": {
-    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.29/ART_SW-3ADG38F44.apk",
-    "detail": "Versión 29 · ¡Nueva!",
-    "package": "com.vertex.tv",
-    "status": "normal"
+  "support_whatsapp": "+5492657219227",
+  "maintenance": {
+    "active": false,
+    "message": "Estamos en mantenimiento. Volvemos en 15 minutos."
   },
-
-  "fenomPlay": {
-    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.2/femonplus.apk",
-    "detail": "Versión 2.0 · Disponible",
-    "package": "com.femon.plus",
-    "status": "normal"
+  "ftstore": {
+    "version": "2.1.0",
+    "versionCode": 3,
+    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk"
   },
-
-  "mundoInfinito": {
-    "url": null,
-    "detail": "Próximamente",
-    "package": null
-  },
-
-  "future": {
-    "url": null,
-    "detail": "Próximamente",
-    "package": null
-  },
-
-  "gplayer": {
-    "url": null,
-    "detail": "Próximamente",
-    "package": null
-  },
-
-  "tvOnlinePlus": {
-    "url": null,
-    "detail": "Próximamente",
-    "package": null
-  },
-
-  "flujoTv": {
-    "url": null,
-    "detail": "Próximamente",
-    "package": null
+  "apps": {
+    "suffixed": {
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
+      "detail": "Versión 8.0 · Estable",
+      "package": "com.suffixed.app",
+      "status": "Actualizar"
+    },
+    "vertex": {
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.29/ART_SW-3ADG38F44.apk",
+      "detail": "Versión 29 · ¡Nueva!",
+      "package": "com.vertex.tv",
+      "status": "normal"
+    },
+    "fenomPlay": {
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.2/femonplus.apk",
+      "detail": "Versión 2.0 · Disponible",
+      "package": "com.femon.plus",
+      "status": "normal"
+    },
+    "mundoInfinito": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    },
+    "future": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    },
+    "gplayer": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    },
+    "tvOnlinePlus": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    },
+    "flujoTv": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    }
   }
 }
