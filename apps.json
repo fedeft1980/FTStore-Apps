@@ -13,10 +13,10 @@
     "message": "Estamos en mantenimiento. Volvemos en 15 minutos."
   },
   "ftstore": {
-  "version": "2.1.0",
-  "versionCode": 3,
-  "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk"
-}
+    "version": "2.1.0",
+    "versionCode": 3,
+    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk"
+  },
   "apps": {
     "suffixed": {
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
@@ -36,13 +36,30 @@
       "package": "com.femon.plus",
       "status": "normal"
     },
-    "mundoInfinito": { "url": null, "detail": "Próximamente", "package": null },
-    "future": { "url": null, "detail": "Próximamente", "package": null },
-    "gplayer": { "url": null, "detail": "Próximamente", "package": null },
-    "tvOnlinePlus": { "url": null, "detail": "Próximamente", "package": null },
-    "flujoTv": { "url": null, "detail": "Próximamente", "package": null }
+    "mundoInfinito": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    },
+    "future": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    },
+    "gplayer": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    },
+    "tvOnlinePlus": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    },
+    "flujoTv": {
+      "url": null,
+      "detail": "Próximamente",
+      "package": null
+    }
   }
-
-
-  
 }
