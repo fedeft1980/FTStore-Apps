@@ -4,62 +4,82 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: MUY PRONTO LOS VENCIMIENTOS IRÁN POR ACÁ.",
+    "text": "📢 NOVEDADES: TODAS LAS APPS FUNCIONANDO CORRECTAMENTE.",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
   "maintenance": {
     "active": false,
-    "message": "Estamos en mantenimiento. Volvemos en 15 minutos."
+    "message": "Estamos en mantenimiento. Volvemos en unos minutos."
+  },
+  "promotion": {
+    "text": "¡Suscribite hoy y obtené un mes de regalo en Vertex!",
+    "button": "HABLAR CON SOPORTE",
+    "url": "https://api.whatsapp.com/send?phone=5492657219227",
+    "color": "#2D2D30"
   },
   "ftstore": {
     "version": "2.1.0",
     "versionCode": 3,
-    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk"
+    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk",
+    "active": false
   },
   "apps": {
     "suffixed": {
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
       "detail": "Versión 8.0 · Estable",
       "package": "com.suffixed.app",
-      "status": "Actualizar"
+      "version": "8.0",
+      "status": "normal"
     },
     "vertex": {
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.29/ART_SW-3ADG38F44.apk",
       "detail": "Versión 29 · ¡Nueva!",
       "package": "com.vertex.tv",
-      "status": "normal"
+      "version": "29.0",
+      "status": "nuevo"
     },
     "fenomPlay": {
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.2/femonplus.apk",
       "detail": "Versión 2.0 · Disponible",
       "package": "com.femon.plus",
-      "status": "normal"
+      "version": "2.0",
+      "status": "destacado"
     },
     "mundoInfinito": {
       "url": null,
       "detail": "Próximamente",
-      "package": null
+      "package": "com.mundoinfinito.app",
+      "version": "1.0",
+      "status": "normal"
     },
     "future": {
       "url": null,
       "detail": "Próximamente",
-      "package": null
+      "package": "com.future.app",
+      "version": "1.0",
+      "status": "normal"
     },
     "gplayer": {
       "url": null,
       "detail": "Próximamente",
-      "package": null
+      "package": "com.gplayer.app",
+      "version": "1.0",
+      "status": "normal"
     },
     "tvOnlinePlus": {
       "url": null,
       "detail": "Próximamente",
-      "package": null
+      "package": "com.tvonline.app",
+      "version": "1.0",
+      "status": "normal"
     },
     "flujoTv": {
       "url": null,
       "detail": "Próximamente",
-      "package": null
+      "package": "com.flujotv.app",
+      "version": "1.0",
+      "status": "normal"
     }
   }
 }
