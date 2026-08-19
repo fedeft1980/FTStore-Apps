@@ -9,7 +9,7 @@
   },
   "support_whatsapp": "+5492657219227",
   "maintenance": {
-    "active": false,
+    "active": true,
     "message": "Estamos en mantenimiento. Volvemos en unos minutos."
   },
   "promotion": {
@@ -27,7 +27,7 @@
   "apps": {
     "suffixed": {
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
-      "detail": "Versión 8.0 · Estable",
+      "detail": "Versión 9.0 · Estable",
       "package": "com.suffixed.app",
       "version": "8.0",
       "status": "normal"
@@ -55,7 +55,7 @@
     },
     "future": {
       "url": null,
-      "detail": "Próximamente",
+      "detail": "ACTUALIZAR",
       "package": "com.future.app",
       "version": "1.0",
       "status": "normal"
