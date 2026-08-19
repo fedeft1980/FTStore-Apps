@@ -9,7 +9,7 @@
   },
   "support_whatsapp": "+5492657219227",
   "maintenance": {
-    "active": true,
+    "active": false,
     "message": "Estamos en mantenimiento. Volvemos en unos minutos."
   },
   "promotion": {
