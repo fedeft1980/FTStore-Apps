@@ -4,7 +4,8 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: TODO MAS CARoooooooooooooo",
+    "text": "📢 NOVEDADES: VAMOS A IMPLEMENTAR
+  ",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -46,7 +47,7 @@
       "detail": "Versión 2.0 · Disponible",
       "package": "com.femon.plus",
       "version": "2.0",
-      "status": "destacado"
+      "status": "normal"
     },
     "mundoInfinito": {
       "active": true,
@@ -54,7 +55,7 @@
       "detail": "Próximamente",
       "package": "com.mundoinfinito.app",
       "version": "1.0",
-      "status": "normal"
+      "status": "nuevo"
     },
     "future": {
       "active": true,
@@ -62,7 +63,7 @@
       "detail": "ACTUALIZAR",
       "package": "com.future.app",
       "version": "1.0",
-      "status": "normal"
+      "status": "destacado"
     },
     "gplayer": {
       "active": true,
@@ -70,15 +71,15 @@
       "detail": "Próximamente",
       "package": "com.gplayer.app",
       "version": "1.0",
-      "status": "normal"
+      "status": "destacado"
     },
     "tvOnlinePlus": {
       "active": true,
       "url": null,
-      "detail": "Próximamente",
+      "detail": "mejorada",
       "package": "com.tvonline.app",
       "version": "1.0",
-      "status": "normal"
+      "status": "destacado"
     },
     "flujoTv": {
       "active": true,
