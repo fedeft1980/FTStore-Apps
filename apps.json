@@ -4,7 +4,7 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: qweqwew",
+    "text": "📢 NOVEDADES: SE ACABO DOWNLOADERRRRRRRR",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -19,7 +19,7 @@
       "active": true,
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
       "detail": "Versión 9.0 · Estable",
-      "package": "com.google.android.datatransport",
+      "package": "com.suffixed.app",
       "version": "8.0",
       "status": "normal",
       "button_action": "actualizar"
@@ -29,7 +29,7 @@
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.29/ART_SW-3ADG38F44.apk",
       "detail": "Versión 29 · ¡Nueva!",
       "package": "com.vertex.tv",
-      "version": "29.0",
+      "version": "2.9",
       "status": "nuevo"
     },
     "fenomPlay": {
@@ -42,10 +42,10 @@
     },
     "mundoInfinito": {
       "active": true,
-      "url": null,
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/11.0.0/mundoIn.apk",
       "detail": "Próximamente",
       "package": "com.mundoinfinito.app",
-      "version": "1.0",
+      "version": "11.0.0",
       "status": "nuevo"
     },
     "future": {
@@ -54,7 +54,7 @@
       "detail": "ACTUALIZAR",
       "package": "com.future.app",
       "version": "1.0",
-      "status": "normal"
+      "status": "destacado"
     },
     "gplayer": {
       "active": true,
@@ -62,7 +62,7 @@
       "detail": "Próximamente",
       "package": "com.gplayer.app",
       "version": "1.0",
-      "status": "normal"
+      "status": "destacado"
     },
     "tvOnlinePlus": {
       "active": true,
@@ -70,7 +70,7 @@
       "detail": "mejorada",
       "package": "com.tvonline.app",
       "version": "1.0",
-      "status": "normal"
+      "status": "destacado"
     },
     "flujoTv": {
       "active": true,
@@ -78,8 +78,7 @@
       "detail": "MAGIS TV PAGO",
       "package": "com.flujotv.app",
       "version": "1.0",
-      "status": "normal",
-      "button_action": "actualizar"
+      "status": "destacado"
     }
   },
   "apps_order": [
