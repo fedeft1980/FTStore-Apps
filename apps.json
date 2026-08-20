@@ -4,10 +4,16 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: TODO MAS CARO AHORA.",
+    "text": "📢 NOVEDADES: TODO MAS CARoooooooooooooo",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
+  "ftstore": {
+    "version": "#FFD700",
+    "versionCode": 4,
+    "showUpdate": true,
+    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v2.1.0/FTStore.apk"
+  },
   "apps": {
     "suffixed": {
       "active": true,
