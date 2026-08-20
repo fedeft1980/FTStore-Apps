@@ -4,7 +4,7 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: SE ACABO DOWNLOADERRRRRRRR",
+    "text": "📢 NOVEDADES: TE AMO MUCHO YEYE",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -22,7 +22,8 @@
       "package": "com.suffixed.app",
       "version": "8.0",
       "status": "normal",
-      "button_action": "actualizar"
+      "button_action": "actualizar",
+      "name": "Suffixed"
     },
     "vertex": {
       "active": true,
@@ -30,15 +31,17 @@
       "detail": "Versión 29 · ¡Nueva!",
       "package": "com.vertex.tv",
       "version": "2.9",
-      "status": "nuevo"
+      "status": "nuevo",
+      "name": "Vertex Tv"
     },
     "fenomPlay": {
       "active": true,
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.2/femonplus.apk",
       "detail": "Versión 2.0 · Disponible",
       "package": "com.femon.plus",
-      "version": "2.0",
-      "status": "normal"
+      "version": "16.6",
+      "status": "normal",
+      "name": "Femon Play"
     },
     "mundoInfinito": {
       "active": true,
@@ -50,35 +53,39 @@
     },
     "future": {
       "active": true,
-      "url": null,
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/1.6/FutureTV.apk",
       "detail": "ACTUALIZAR",
       "package": "com.future.app",
-      "version": "1.0",
-      "status": "destacado"
+      "version": "1.6",
+      "status": "nuevo",
+      "name": "Future TV"
     },
     "gplayer": {
       "active": true,
-      "url": null,
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v1.58/gplayer.apk",
       "detail": "Próximamente",
       "package": "com.gplayer.app",
       "version": "1.0",
-      "status": "destacado"
+      "status": "destacado",
+      "name": "Gplayer"
     },
     "tvOnlinePlus": {
       "active": true,
-      "url": null,
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v10.8/tvplus2-2026.apk",
       "detail": "mejorada",
       "package": "com.tvonline.app",
       "version": "1.0",
-      "status": "destacado"
+      "status": "destacado",
+      "name": "Tv Online Plus"
     },
     "flujoTv": {
       "active": true,
-      "url": null,
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.8.2/flujo_tv_v8.8.2.1.apk",
       "detail": "MAGIS TV PAGO",
       "package": "com.flujotv.app",
-      "version": "1.0",
-      "status": "destacado"
+      "version": "8.8.2",
+      "status": "destacado",
+      "name": "Flujo Tv"
     }
   },
   "apps_order": [
