@@ -4,14 +4,14 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: vamos a ver que onda",
+    "text": "📢 NOVEDADES: SE ACABO DOWNLOADERRRRRRRR",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
   "ftstore": {
     "version": "#FFD700",
     "versionCode": 4,
-    "showUpdate": true,
+    "showUpdate": false,
     "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v2.1.0/FTStore.apk"
   },
   "apps": {
@@ -22,16 +22,6 @@
       "package": "com.suffixed.app",
       "version": "8.0",
       "status": "normal",
-      "button_action": "actualizar"
-    },
-    "per": {
-      "active": true,
-      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
-      "detail": "version 200000",
-      "package": "com.suffixed.app",
-      "version": "8.0",
-      "status": "destacado",
-      "name": "PPENDORCHO",
       "button_action": "actualizar"
     },
     "vertex": {
@@ -93,7 +83,6 @@
   },
   "apps_order": [
     "suffixed",
-    "per",
     "vertex",
     "fenomPlay",
     "mundoInfinito",
