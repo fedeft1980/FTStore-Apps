@@ -4,7 +4,7 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: TODO MAS CARoooooooooooooo",
+    "text": "📢 NOVEDADES: vamos a ver que onda",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -30,8 +30,9 @@
       "detail": "version 200000",
       "package": "com.suffixed.app",
       "version": "8.0",
-      "status": "nuevo",
-      "name": "PPENDORCHO"
+      "status": "destacado",
+      "name": "PPENDORCHO",
+      "button_action": "actualizar"
     },
     "vertex": {
       "active": true,
