@@ -1,19 +1,13 @@
 {
   "notice": {
-    "text": "🚀 ¡Bienvenido a FTStore-DigTV!",
+    "text": "🚀 ¡Bienvenido a FTStore!",
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: FEDEDEEEEE.",
+    "text": "📢 NOVEDADES: TODO MAS CARO AHORA.",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
-  "ftstore": {
-    "version": "2.1.0",
-    "versionCode": 3,
-    "showUpdate": false,
-    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk"
-  },
   "apps": {
     "suffixed": {
       "active": true,
@@ -26,10 +20,11 @@
     "per": {
       "active": true,
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
-      "detail": "Versión 9.0 · Estable",
+      "detail": "version 200000",
       "package": "com.suffixed.app",
       "version": "8.0",
-      "status": "normal"
+      "status": "nuevo",
+      "name": "PPENDORCHO"
     },
     "vertex": {
       "active": true,
@@ -82,10 +77,10 @@
     "flujoTv": {
       "active": true,
       "url": null,
-      "detail": "Próximamente",
+      "detail": "MAGIS TV PAGO",
       "package": "com.flujotv.app",
-      "version": "8.0",
-      "status": "EN MANTENIMIENTO"
+      "version": "1.0",
+      "status": "destacado"
     }
   },
   "apps_order": [
