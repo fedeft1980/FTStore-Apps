@@ -1,6 +1,6 @@
 {
   "notice": {
-    "text": "🚀 ¡Bienvenido a la nueva FTStore-DigTV!",
+    "text": "🚀 ¡Bienvenido a FTStore-DigTV!",
     "color": "#D82126"
   },
   "novedades": {
@@ -8,29 +8,13 @@
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
-
-  "maintenance": {
-    "active": false,
-    "message": "Estamos en mantenimiento. Volvemos en unos minutos."
-  },
-
-  "promotion": {
-    "text": "¡Suscribite hoy y obtené un mes de regalo en Vertex!",
-    "button": "HABLAR CON SOPORTE",
-    "url": "https://api.whatsapp.com/send?phone=5492657219227",
-    "color": "#2D2D30"
-  },
-
   "ftstore": {
-    "showUpdate": true,
     "version": "2.1.0",
     "versionCode": 3,
-    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk",
-    "active": true
+    "showUpdate": false,
+    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk"
   },
-
   "apps": {
-
     "suffixed": {
       "active": true,
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
@@ -39,7 +23,6 @@
       "version": "8.0",
       "status": "normal"
     },
-
     "per": {
       "active": true,
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
@@ -48,7 +31,6 @@
       "version": "8.0",
       "status": "normal"
     },
-
     "vertex": {
       "active": true,
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.29/ART_SW-3ADG38F44.apk",
@@ -57,7 +39,6 @@
       "version": "29.0",
       "status": "nuevo"
     },
-
     "fenomPlay": {
       "active": true,
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.2/femonplus.apk",
@@ -66,7 +47,6 @@
       "version": "2.0",
       "status": "destacado"
     },
-
     "mundoInfinito": {
       "active": true,
       "url": null,
@@ -75,7 +55,6 @@
       "version": "1.0",
       "status": "normal"
     },
-
     "future": {
       "active": true,
       "url": null,
@@ -84,7 +63,6 @@
       "version": "1.0",
       "status": "normal"
     },
-
     "gplayer": {
       "active": true,
       "url": null,
@@ -93,7 +71,6 @@
       "version": "1.0",
       "status": "normal"
     },
-
     "tvOnlinePlus": {
       "active": true,
       "url": null,
@@ -102,14 +79,24 @@
       "version": "1.0",
       "status": "normal"
     },
-
     "flujoTv": {
       "active": true,
       "url": null,
       "detail": "Próximamente",
       "package": "com.flujotv.app",
-      "version": "1.0",
-      "status": "normal"
+      "version": "8.0",
+      "status": "EN MANTENIMIENTO"
     }
-  }
+  },
+  "apps_order": [
+    "suffixed",
+    "per",
+    "vertex",
+    "fenomPlay",
+    "mundoInfinito",
+    "future",
+    "gplayer",
+    "tvOnlinePlus",
+    "flujoTv"
+  ]
 }
