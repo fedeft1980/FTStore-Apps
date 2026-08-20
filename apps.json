@@ -4,7 +4,7 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: VEMOS QUE ONDA",
+    "text": "📢 NOVEDADES: TODO MAS CARoooooooooooooo",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -21,7 +21,8 @@
       "detail": "Versión 9.0 · Estable",
       "package": "com.suffixed.app",
       "version": "8.0",
-      "status": "normal"
+      "status": "normal",
+      "button_action": "actualizar"
     },
     "per": {
       "active": true,
