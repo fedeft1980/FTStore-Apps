@@ -22,7 +22,7 @@
   },
 
   "ftstore": {
-    "showUpdate": false,
+    "showUpdate": true,
     "version": "2.1.0",
     "versionCode": 3,
     "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/ftstore-v2.1.0/FTStore.apk",
