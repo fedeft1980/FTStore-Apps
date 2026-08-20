@@ -4,7 +4,7 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: veamos que onda",
+    "text": "📢 NOVEDADES: qweqwew",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -54,7 +54,7 @@
       "detail": "ACTUALIZAR",
       "package": "com.future.app",
       "version": "1.0",
-      "status": "destacado"
+      "status": "normal"
     },
     "gplayer": {
       "active": true,
@@ -62,7 +62,7 @@
       "detail": "Próximamente",
       "package": "com.gplayer.app",
       "version": "1.0",
-      "status": "destacado"
+      "status": "normal"
     },
     "tvOnlinePlus": {
       "active": true,
@@ -70,7 +70,7 @@
       "detail": "mejorada",
       "package": "com.tvonline.app",
       "version": "1.0",
-      "status": "destacado"
+      "status": "normal"
     },
     "flujoTv": {
       "active": true,
@@ -78,7 +78,8 @@
       "detail": "MAGIS TV PAGO",
       "package": "com.flujotv.app",
       "version": "1.0",
-      "status": "destacado"
+      "status": "normal",
+      "button_action": "actualizar"
     }
   },
   "apps_order": [
