@@ -4,7 +4,7 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: LANZAMINETOOO",
+    "text": "📢 NOVEDADES: TE AMO MUCHO YEYE",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -23,7 +23,8 @@
       "version": "8.0",
       "status": "normal",
       "button_action": "actualizar",
-      "name": "Suffixed"
+      "name": "Suffixed",
+      "downloader_code": "1008708"
     },
     "vertex": {
       "active": true,
@@ -32,7 +33,8 @@
       "package": "com.vertex.tv",
       "version": "2.9",
       "status": "nuevo",
-      "name": "Vertex Tv"
+      "name": "Vertex Tv",
+      "downloader_code": ""
     },
     "fenomPlay": {
       "active": true,
@@ -41,7 +43,8 @@
       "package": "com.femon.plus",
       "version": "16.6",
       "status": "normal",
-      "name": "Femon Play"
+      "name": "Femon Play",
+      "downloader_code": ""
     },
     "mundoInfinito": {
       "active": true,
@@ -49,7 +52,8 @@
       "detail": "Próximamente",
       "package": "com.mundoinfinito.app",
       "version": "11.0.0",
-      "status": "nuevo"
+      "status": "nuevo",
+      "downloader_code": ""
     },
     "future": {
       "active": true,
@@ -58,7 +62,8 @@
       "package": "com.future.app",
       "version": "1.6",
       "status": "nuevo",
-      "name": "Future TV"
+      "name": "Future TV",
+      "downloader_code": ""
     },
     "gplayer": {
       "active": true,
@@ -67,7 +72,8 @@
       "package": "com.gplayer.app",
       "version": "1.0",
       "status": "destacado",
-      "name": "Gplayer"
+      "name": "Gplayer",
+      "downloader_code": ""
     },
     "tvOnlinePlus": {
       "active": true,
@@ -76,7 +82,8 @@
       "package": "com.tvonline.app",
       "version": "1.0",
       "status": "destacado",
-      "name": "Tv Online Plus"
+      "name": "Tv Online Plus",
+      "downloader_code": ""
     },
     "flujoTv": {
       "active": true,
@@ -85,7 +92,8 @@
       "package": "com.flujotv.app",
       "version": "8.8.2",
       "status": "destacado",
-      "name": "Flujo Tv"
+      "name": "Flujo Tv",
+      "downloader_code": ""
     }
   },
   "apps_order": [
