@@ -34,7 +34,7 @@
       "version": "2.9",
       "status": "nuevo",
       "name": "Vertex Tv",
-      "downloader_code": ""
+      "downloader_code": "123123"
     },
     "fenomPlay": {
       "active": true,
@@ -44,7 +44,7 @@
       "version": "16.6",
       "status": "normal",
       "name": "Femon Play",
-      "downloader_code": ""
+      "downloader_code": "123123123"
     },
     "mundoInfinito": {
       "active": true,
@@ -53,7 +53,7 @@
       "package": "com.mundoinfinito.app",
       "version": "11.0.0",
       "status": "nuevo",
-      "downloader_code": ""
+      "downloader_code": "123123123"
     },
     "future": {
       "active": true,
@@ -63,7 +63,7 @@
       "version": "1.6",
       "status": "nuevo",
       "name": "Future TV",
-      "downloader_code": ""
+      "downloader_code": "123123123"
     },
     "gplayer": {
       "active": true,
@@ -73,7 +73,7 @@
       "version": "1.0",
       "status": "destacado",
       "name": "Gplayer",
-      "downloader_code": ""
+      "downloader_code": "123123123"
     },
     "tvOnlinePlus": {
       "active": true,
@@ -83,7 +83,7 @@
       "version": "1.0",
       "status": "destacado",
       "name": "Tv Online Plus",
-      "downloader_code": ""
+      "downloader_code": "123123123"
     },
     "flujoTv": {
       "active": true,
@@ -93,7 +93,7 @@
       "version": "8.8.2",
       "status": "destacado",
       "name": "Flujo Tv",
-      "downloader_code": ""
+      "downloader_code": "123123123123"
     }
   },
   "apps_order": [
