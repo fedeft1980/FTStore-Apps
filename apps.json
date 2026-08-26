@@ -4,7 +4,7 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: PRONTO EN MARCHA",
+    "text": "📢 NOVEDADES: PEDIME TU ID DE USUARIO.",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -18,13 +18,13 @@
     "suffixed": {
       "active": true,
       "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v8.0-build16/tv.apk",
-      "detail": "Versión 9.0 · Estable",
+      "detail": "Versión 9.0 · 26/09",
       "package": "com.suffixed.app",
-      "version": "8.0",
+      "version": "9.0",
       "status": "normal",
       "button_action": "actualizar",
       "name": "Suffixed",
-      "downloader_code": "1008708"
+      "downloader_code": "1982637"
     },
     "vertex": {
       "active": true,
@@ -32,9 +32,9 @@
       "detail": "Versión 29 · ¡Nueva!",
       "package": "com.vertex.tv",
       "version": "2.9",
-      "status": "nuevo",
+      "status": "normal",
       "name": "Vertex Tv",
-      "downloader_code": "123123"
+      "downloader_code": "2940158"
     },
     "fenomPlay": {
       "active": true,
@@ -44,7 +44,7 @@
       "version": "16.6",
       "status": "normal",
       "name": "Femon Play",
-      "downloader_code": "123123123"
+      "downloader_code": "7951324"
     },
     "mundoInfinito": {
       "active": true,
@@ -53,7 +53,8 @@
       "package": "com.mundoinfinito.app",
       "version": "11.0.0",
       "status": "nuevo",
-      "downloader_code": "123123123"
+      "downloader_code": "9880117",
+      "name": "Mundo Infinito"
     },
     "future": {
       "active": true,
@@ -63,7 +64,7 @@
       "version": "1.6",
       "status": "nuevo",
       "name": "Future TV",
-      "downloader_code": "123123123"
+      "downloader_code": "3149802"
     },
     "gplayer": {
       "active": true,
@@ -71,9 +72,9 @@
       "detail": "Próximamente",
       "package": "com.gplayer.app",
       "version": "1.0",
-      "status": "destacado",
+      "status": "nuevo",
       "name": "Gplayer",
-      "downloader_code": "123123123"
+      "downloader_code": "6999373"
     },
     "tvOnlinePlus": {
       "active": true,
@@ -83,7 +84,7 @@
       "version": "1.0",
       "status": "destacado",
       "name": "Tv Online Plus",
-      "downloader_code": "123123123"
+      "downloader_code": "6979360"
     },
     "flujoTv": {
       "active": true,
@@ -93,7 +94,7 @@
       "version": "8.8.2",
       "status": "destacado",
       "name": "Flujo Tv",
-      "downloader_code": "123123123123"
+      "downloader_code": "5598192"
     }
   },
   "apps_order": [
