@@ -4,7 +4,7 @@
     "color": "#D82126"
   },
   "novedades": {
-    "text": "📢 NOVEDADES: ACTUALIZAR SUFFIXED A VERSION 9.0 Y FTSTORE APK A VERSION 2.0",
+    "text": "📢 NOVEDADES: ACTUALIZAR SUFFIXED A VERSION 9.0, VERTEX A LA VERSION 3.0",
     "color": "#FFD700"
   },
   "support_whatsapp": "+5492657219227",
@@ -12,7 +12,7 @@
     "version": "#FFD700",
     "versionCode": 4,
     "showUpdate": true,
-    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v5/ftstorev2.apk"
+    "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v2.1.0/FTStore.apk"
   },
   "apps": {
     "suffixed": {
@@ -28,11 +28,11 @@
     },
     "vertex": {
       "active": true,
-      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.29/ART_SW-3ADG38F44.apk",
+      "url": "https://github.com/fedeft1980/FTStore-Apps/releases/download/v.29/vrx.3.0.apk",
       "detail": "Hasta 3 disp en simultaneo",
       "package": "com.vertex.tv",
-      "version": "2.9",
-      "status": "normal",
+      "version": "3.0",
+      "status": "destacado",
       "name": "Vertex Tv",
       "downloader_code": "2940158"
     },
@@ -52,7 +52,7 @@
       "detail": "Hasta 3 disp en simultaneo",
       "package": "com.mundoinfinito.app",
       "version": "11.0.0",
-      "status": "normal",
+      "status": "nuevo",
       "downloader_code": "9880117",
       "name": "Mundo Infinito"
     },
@@ -62,7 +62,7 @@
       "detail": "Hasta 3 disp en simultaneo",
       "package": "com.future.app",
       "version": "1.6",
-      "status": "normal",
+      "status": "nuevo",
       "name": "Future TV",
       "downloader_code": "3149802"
     },
@@ -72,7 +72,7 @@
       "detail": "Hasta 3 disp en simultaneo",
       "package": "com.gplayer.app",
       "version": "1.0",
-      "status": "normal",
+      "status": "nuevo",
       "name": "Gplayer",
       "downloader_code": "6999373"
     },
@@ -82,7 +82,7 @@
       "detail": "Hasta 3 disp en simultaneo",
       "package": "com.tvonline.app",
       "version": "1.0",
-      "status": "normal",
+      "status": "destacado",
       "name": "Tv Online Plus",
       "downloader_code": "6979360"
     },
@@ -92,7 +92,7 @@
       "detail": "MAGIS TV PAGO- Hasta 3 disp en simultaneo",
       "package": "com.flujotv.app",
       "version": "8.8.2",
-      "status": "normal",
+      "status": "destacado",
       "name": "Flujo Tv",
       "downloader_code": "5598192"
     }
